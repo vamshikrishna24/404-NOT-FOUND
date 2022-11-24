@@ -70,4 +70,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ## Contact
 
 - Website [404 NOT FOUND](https://not-found-df336.web.app/)
-- GitHub [@vamshikrishna2124](https://github.com/vamshikrishna24)
+- GitHub [@vamshikrishna24](https://github.com/vamshikrishna24)
